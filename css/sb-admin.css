@@ -10722,3 +10722,11 @@ body.sidebar-toggled footer.sticky-footer {
     width: calc(100% - 90px);
   }
 }
+
+.logo-box{
+  margin:5px 15px;
+}
+.logo{
+  width: 40px;
+  height: 40px;
+}
